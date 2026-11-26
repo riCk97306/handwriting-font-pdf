@@ -1,0 +1,21 @@
+# Python bytecode & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Working segmentation / intermediate output directories
+extracted_chars*/
+analysis/
+handwritten_pages/
+output/
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

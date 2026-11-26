@@ -1,0 +1,16 @@
+{
+  "name": "handwriting-font-pdf",
+  "displayName": "Handwriting Font & Natural PDF Generator",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rick Ghosh",
+    "url": "https://github.com/riCk97306"
+  },
+  "repository": "https://github.com/riCk97306/handwriting-font-pdf",
+  "description": "Convert handwritten character & flow photos into smooth TTF/OTF fonts and natural multi-page handwritten assignment PDFs with math, tables, diagrams, and realistic margins.",
+  "suggestedPrompts": [
+    "Build a clean TTF and OTF handwriting font from my character and symbol photos",
+    "Convert this assignment PDF into realistic handwritten pages matching my handwriting flow photo",
+    "Patch specific letters or add Greek and math symbols to my existing handwriting font"
+  ]
+}
